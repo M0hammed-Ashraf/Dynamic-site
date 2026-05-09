@@ -3,8 +3,6 @@
 --  Run this in phpMyAdmin or MySQL CLI
 -- =============================================
 
-CREATE DATABASE IF NOT EXISTS blog_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE blog_db;
 
 -- Posts table
 CREATE TABLE IF NOT EXISTS posts (
