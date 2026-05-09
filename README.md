@@ -17,8 +17,8 @@ A full-featured blog with server-side rendering, database integration, and admin
 
 ## 🚀 Live URLs
 
-- **InfinityFree:** `https://YOUR_SUBDOMAIN.infinityfreeapp.com`
-- **Second Host:** `https://YOUR_SITE.000webhostapp.com` (or similar)
+- **InfinityFree:** `https://dynamic-site.wuaze.com`
+- **ProFree:** `https://dynamic-site.liveblog365.com`
 
 ## 💻 Run Locally
 
